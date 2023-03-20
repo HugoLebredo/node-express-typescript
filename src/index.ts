@@ -13,3 +13,5 @@ app.get('/ping', (_req, res) => {
 app.use('/api/diaries', diaryRouter)
 
 app.listen(PORT, () => console.log(`api levantada en el puerto ${PORT}`))
+
+export default app
