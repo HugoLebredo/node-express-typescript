@@ -1,0 +1,29 @@
+[{
+    "id":1,
+    "date":"01-01-1900",
+    "weather":"rainy",
+    "visibility":"good",
+    "comment":"Easy one"
+},
+{
+    "id":2,
+    "date":"01-03-1900",
+    "weather":"cloudy",
+    "visibility":"great",
+    "comment":"Scary one"
+},
+{
+    "id":3,
+    "date":"01-02-1901",
+    "weather":"sunny",
+    "visibility":"great",
+    "comment":"Great day"
+},
+{
+    "id":4,
+    "date":"10-01-1902",
+    "weather":"stormy",
+    "visibility":"bad",
+    "comment":"Dangerous"
+}
+]
